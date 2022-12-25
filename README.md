@@ -1,7 +1,7 @@
 <img src="./images/Techjori - Github - Banner.png" alt="Techjori Github Banner">
 
 <br/>
-<div style="text-align: center;">
+<div align="center">
 <a href="https://www.youtube.com/channel/UCCmmgvwrEJ1YUpGWZBk5xsA?sub_confirmation=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Techjori Youtube Channel" height="30" width="30" /></a>&nbsp;
 <a href="https://www.instagram.com/techjori/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Techjori Instagram" height="30" width="30" /></a>&nbsp;
 <a href="https://www.tiktok.com/@techjori" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg" alt="Techjori Tiktok" height="30" width="30" /></a>&nbsp;
