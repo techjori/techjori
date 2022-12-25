@@ -17,7 +17,7 @@
 
 ### Latest Tweets
 
-<p><a href="https://www.twitter.com/techjori"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=techjori&amp;layout=wide" alt="github-readme-twitter"></a></p>
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=techjori)](https://github.com/gazf/github-readme-twitter)
 
 
 <!---
