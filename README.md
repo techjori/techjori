@@ -15,8 +15,23 @@
 </div>
 <br/>
 
+<h2>About</h2>
 
-### Latest Tweets
+<h3>Tech Up Your Life - It's All About Computer Science!</h3>
+
+
+<p>Welcome to TechJori, your one-stop destination for everything related to computer science and technology!</p>
+
+<p>TechJori is dedicated to providing you with the expert advice, tutorials, courses, latest tech news, tips, and tricks related to computer science and technology.</p>
+
+<p>Whether you’re just starting out or a seasoned pro, Techjori has something for everyone.</p>
+
+<p>At TechJori, we will be covering topics such as programming languages, coding, software development, artificial intelligence, machine learning, data science, web development, internet of things, mobile development, cyber security, computer networking, tech updates and more.</p>
+
+<p>Join Muhammad Ali, a software engineer, as he takes you on a journey of discovery and knowledge. Get ready to stay ahead of the curve as we explore the ever-evolving world of computer science and tech.</p>
+
+<p>Thank you for visiting Techjori!</p>
+<h2>Latest Tweets</h2>
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=techjori)](https://github.com/gazf/github-readme-twitter)
 
