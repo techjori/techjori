@@ -14,7 +14,8 @@
 <a href="https://www.buymeacoffee.com/techjori" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" alt="Techjori Quora Profile" height="30" width="30" /></a>&nbsp;
 </div>
 <br/>
-
+<div align="center">
+<a href="https://www.buymeacoffee.com/techjori" title="buy me a coffee"><img src="./images/bmc-button.svg" width="200" height="80" alt="Buy me a Coffee"></a></div>
 <h2>About</h2>
 
 <h3>Tech Up Your Life - It's All About Computer Science!</h3>
