@@ -20,7 +20,7 @@
 <h3>Tech Up Your Life - It's All About Computer Science!</h3>
 
 
-<p>Welcome to TechJori, your one-stop destination for everything related to computer science and technology!</p>
+<p>Welcome to <a href="https://www.youtube.com/channel/UCCmmgvwrEJ1YUpGWZBk5xsA?sub_confirmation=1" alt="techjori"><b>TechJori</b></a>, your one-stop destination for everything related to <a href="https://www.youtube.com/channel/UCCmmgvwrEJ1YUpGWZBk5xsA?sub_confirmation=1" alt="Techjori"><b>computer science</b></a> and <a href="https://www.youtube.com/channel/UCCmmgvwrEJ1YUpGWZBk5xsA?sub_confirmation=1" alt="techjori"><b>technology</b></a>!</p>
 
 <p>TechJori is dedicated to providing you with the expert advice, tutorials, courses, latest tech news, tips, and tricks related to computer science and technology.</p>
 
