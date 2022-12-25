@@ -11,6 +11,7 @@
 <a href="https://dev.to/techjori" target="blank"><img align="center" src="https://simpleicons.org/icons/devdotto.svg" alt="Techjori Dev.to profile" height="30" width="30" /></a>&nbsp;
 <a href="https://stackoverflow.com/users/20851812/techjori?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Techjori StackOverFlow" height="30" width="30" /></a>&nbsp;
 <a href="https://www.quora.com/profile/Techjori" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg" alt="Techjori Quora Profile" height="30" width="30" /></a>&nbsp;
+<a href="https://www.buymeacoffee.com/techjori" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" alt="Techjori Quora Profile" height="30" width="30" /></a>&nbsp;
 </div>
 <br/>
 
