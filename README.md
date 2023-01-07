@@ -18,18 +18,11 @@
 <a href="https://www.buymeacoffee.com/techjori" title="buy me a coffee"><img src="./images/bmc-button.svg" width="200" height="80" alt="Buy me a Coffee"></a></div>
 <h2>About</h2>
 
-<h3>Tech Up Your Life - It's All About Computer Science!</h3>
+<h3>Secure Your Online Presence - Awareness is the First Step!</h3>
 
+<p>Welcome to TechJori, the Cybercrime and Cybersecurity Awareness channel! </p>
 
-<p>Welcome to <a href="https://www.youtube.com/channel/UCCmmgvwrEJ1YUpGWZBk5xsA?sub_confirmation=1" alt="techjori"><b>TechJori</b></a>, your one-stop destination for everything related to <a href="https://www.youtube.com/channel/UCCmmgvwrEJ1YUpGWZBk5xsA?sub_confirmation=1" alt="Techjori"><b>computer science</b></a> and <a href="https://www.youtube.com/channel/UCCmmgvwrEJ1YUpGWZBk5xsA?sub_confirmation=1" alt="techjori"><b>technology</b></a>!</p>
-
-<p>TechJori is dedicated to providing you with the expert advice, tutorials, courses, latest tech news, tips, and tricks related to computer science and technology.</p>
-
-<p>Whether you’re just starting out or a seasoned pro, Techjori has something for everyone.</p>
-
-<p>At TechJori, we will be covering topics such as programming languages, coding, software development, artificial intelligence, machine learning, data science, web development, internet of things, mobile development, cyber security, computer networking, tech updates and more.</p>
-
-<p>Join Muhammad Ali, a software engineer, as he takes you on a journey of discovery and knowledge. Get ready to stay ahead of the curve as we explore the ever-evolving world of computer science and tech.</p>
+<p>Here, we aim to educate and empower the general public to stay safe and secure in the digital world. We provide informative and comprehensive content on the latest cybercrime trends and threats, and how to protect yourself. Our goal is to help everyone learn how to protect their data and identity online, while staying up-to-date with the latest security tips and tricks. So join us and become an informed and secure digital citizen!</p>
 
 <p>Thank you for visiting Techjori!</p>
 <h2>Latest Tweets</h2>
