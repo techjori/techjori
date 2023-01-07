@@ -1,4 +1,4 @@
-<img src="./images/Techjori - Github - Banner.png" alt="Techjori Github Banner">
+<img src="./images/Techjori - Github - Banner1.png" alt="Techjori Github Banner">
 
 <br/>
 <div align="center">
